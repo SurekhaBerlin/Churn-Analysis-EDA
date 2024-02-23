@@ -38,6 +38,8 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	Dependent Target variable: “Churn”
 •	The Churn Rate is 26.58 % 
 •	The dataset is highly imbalanced i.e., there are a lot of loyal customers who are not leaving (the ‘No’ category customers) the telecom service provider to switch to the competitor product. So, we analyze the data with other features while taking the target values separately to get some insights.
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/f5f070eb-18d0-4c00-85cf-6d2f0fb67579)
+
 
 ***************
 5. STEPS INVOLVED IN THE PROCESS
