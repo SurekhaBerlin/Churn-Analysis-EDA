@@ -42,10 +42,10 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 **************
 
 MISSING VARIABLE
-In Total charges there are 11 null values among the 7043 data. Missing variable plot is as shown :
+In Total charges there are 11 null values among the 7043 data.
 
-![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/6b738a8d-0445-47bd-b882-b137f8b276b2)
 
+***********
 
 
 Missing Value Treatment
