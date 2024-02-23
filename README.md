@@ -59,9 +59,12 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 ******************
 EDA Exploratory Data Analysis
 *****
-***Categorical Analysis
-*****Numerical Analysis
-*******Correlation plot
+***
+Categorical Analysis
+*****
+Numerical Analysis
+*******
+Correlation plot
 
 ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ff1e452d-99aa-4108-b400-7cb85bb053c3)
 
