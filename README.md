@@ -23,7 +23,8 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 ***************
 3. UNDERSTANDING THE DATA
 
-![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/99370490-f921-4799-be4e-3b41d0801e24)
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/46d93b3a-bc10-4963-bb02-7388ed97baf4)
+
 
 
 
