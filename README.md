@@ -71,7 +71,9 @@ Correlation plot
 Initial inference from the correlation plot
 
 1.High Churn is seen in the case of Senior Citizens, Customers without partners, Month-to-month contracts, No online security, No Tech support, First year of subscription, and Fibre Optics Internet
+*
 2.Low Churn is seen in the case of long-term contracts, Subscriptions without internet service, and the customers engaged for more years
+*
 3.Factors like Gender, Availability of PhoneService, and number of multiple lines have almost no  impact on Churn
 
 
