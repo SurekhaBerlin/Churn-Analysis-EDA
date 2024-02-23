@@ -6,9 +6,8 @@
 Customer Churn means whether the customer has stopped using the product and switched to a competitor product. To prevent customers from churning, we can use data analysis to identify potential features and design strategies to prevent customers from leaving. It is also noted that an already loyal customer is less likely to churn and easier to retain than try gaining a new customer.
 In this project I am analyzing the customer level data of a leading telecom industry to come up with  insights into the main indicators of the churn and conclusion.
 The dataset I am using is for a project purpose. The name of the dataset is (Customer-Churn.csv). Each row represents a customer; each column contains the customer’s attributes, customer ID, gender, Senior Citizen, Partner, Dependents, tenure, Phone Service, Multiple Lines, Internet Service, Online Security, Online Backup, Device Protection, Tech Support, Streaming TV,  Streaming Movies, Contract, Paperless Billing, Payment Method, Monthly Charges, Total Charges, Churn.
-
+***************
 2. OBJECTIVES
-
 •	The objective is to obtain a data-driven solution that will allow us to reduce churn rates and, therefore, to increase customer satisfaction and corporation revenue.
 •	To predict how likely a customer will churn by analyzing its characteristics: 
 1.	Demographic information
@@ -18,14 +17,15 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	To prevent customers from churning, we can use data analysis to identify potential features and design strategies to prevent customers from leaving.
 •	Recommend product strategies to business team based on  analysis of product offerings that will help in retaining the customer based on available data.
 
+***************
 3. UNDERSTANDING THE DATA
 •	Customers who left the business, the column is called Churn.
 •	Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
 	Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges.
 •	Demographic info about customers – gender, age range, and if they have partners and dependents.
 
-
-5.	DATA DESCRIPTION
+***************
+4.	DATA DESCRIPTION
 •	Data consists of 7043 fictional customers who belong to various demographics (single; with dependents; senior citizen) and subscribe to different products offerings (internet service; phone line; streaming TV; streaming movies; online security) from a telecom company.
 •	Independent variables: 17 Categorical and 3 Continuous
 •	Dependent Target variable: “Churn”
@@ -35,7 +35,7 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	The Churn Rate is 26.58 % 
 •	The dataset is highly imbalanced i.e., there are a lot of loyal customers who are not leaving (the ‘No’ category customers) the telecom service provider to switch to the competitor product. So, we analyze the data with other features while taking the target values separately to get some insights.
 
-
+***************
 
 FINAL THOUGHTS 
 1.	The churn rate of female and male customers is almost the same. So, from this analysis no insights can be concluded. The churn rate of Female is 26.95% and Male is 26.20%
