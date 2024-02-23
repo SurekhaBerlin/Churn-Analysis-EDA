@@ -52,6 +52,9 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	Make Decisions
 •	Inference and Conclusions
 ******************
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ba1d9917-4545-4b48-a394-01fbc67d127d)
+
+
 
 FINAL THOUGHTS 
 1.	The churn rate of female and male customers is almost the same. So, from this analysis no insights can be concluded. The churn rate of Female is 26.95% and Male is 26.20%
