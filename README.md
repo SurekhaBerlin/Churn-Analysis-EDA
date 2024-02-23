@@ -41,16 +41,7 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ee59bc59-e916-446a-b9e2-f522c687b484)
 **************
 5. STEPS INVOLVED IN THE PROCESS
-•	Initial setup
-•	Data Inspection
-•	Data Cleaning
-•	Data preparation
-•	EDA (Exploratory Data Analysis)
-•	Models & Algorithms
-•	Data Product
-•	Data Visualization
-•	Make Decisions
-•	Inference and Conclusions
+
 ******************
 ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ba1d9917-4545-4b48-a394-01fbc67d127d)
 ******************
