@@ -56,8 +56,23 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	Inference and Conclusions
 ******************
 ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ba1d9917-4545-4b48-a394-01fbc67d127d)
+******************
+EDA Exploratory Data Analysis
+Categorical Analysis
+Numerical Analysis
+Correlation plot
 
-CATEGORICAL ANALYSIS![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/2e6dc5b0-6d65-46a3-a906-b3f69606985e)
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ff1e452d-99aa-4108-b400-7cb85bb053c3)
+
+Initial inference from the correlation plot
+
+1.High Churn is seen in the case of Senior Citizens, Customers without partners, Month-to-month contracts, No online security, No Tech support, First year of subscription, and Fibre Optics Internet
+2.Low Churn is seen in the case of long-term contracts, Subscriptions without internet service, and the customers engaged for more years
+3.Factors like Gender, Availability of PhoneService, and number of multiple lines have almost no  impact on Churn
+
+
+***************************
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/1efb63f2-b896-44af-9125-e981622ca6ae)
 
 
 FINAL THOUGHTS 
