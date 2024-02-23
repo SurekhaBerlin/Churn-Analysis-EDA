@@ -33,12 +33,25 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	Independent variables: 17 Categorical and 3 Continuous
 •	Dependent Target variable: “Churn”
 •	Churn Rate (Baseline) is 26.5%
+*************
  4.1 TARGET VARIABLE
 •	Dependent Target variable: “Churn”
 •	The Churn Rate is 26.58 % 
 •	The dataset is highly imbalanced i.e., there are a lot of loyal customers who are not leaving (the ‘No’ category customers) the telecom service provider to switch to the competitor product. So, we analyze the data with other features while taking the target values separately to get some insights.
 
 ***************
+5. STEPS INVOLVED IN THE PROCESS
+•	Initial setup
+•	Data Inspection
+•	Data Cleaning
+•	Data preparation
+•	EDA (Exploratory Data Analysis)
+•	Models & Algorithms
+•	Data Product
+•	Data Visualization
+•	Make Decisions
+•	Inference and Conclusions
+******************
 
 FINAL THOUGHTS 
 1.	The churn rate of female and male customers is almost the same. So, from this analysis no insights can be concluded. The churn rate of Female is 26.95% and Male is 26.20%
