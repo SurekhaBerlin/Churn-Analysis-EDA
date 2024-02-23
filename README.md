@@ -19,10 +19,9 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 
 ***************
 3. UNDERSTANDING THE DATA
-•	Customers who left the business, the column is called Churn.
-•	Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
-	Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges.
-•	Demographic info about customers – gender, age range, and if they have partners and dependents.
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/a9691930-2ea1-49cb-a5d6-c5e78a095d19)
+
+
 
 ***************
 4.	DATA DESCRIPTION
