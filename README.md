@@ -45,7 +45,8 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 5. STEPS INVOLVED IN THE PROCESS
 
 ******************
-![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/7e333588-700f-4dcc-9822-f100a6969a97)
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/7dc96b77-8178-417e-8a37-5ebe3f1310d7)
+
 
 ******************
 EDA Exploratory Data Analysis
