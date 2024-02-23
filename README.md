@@ -40,23 +40,6 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	The dataset is highly imbalanced i.e., there are a lot of loyal customers who are not leaving (the ‘No’ category customers) the telecom service provider to switch to the competitor product. So, we analyze the data with other features while taking the target values separately to get some insights.
 ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ee59bc59-e916-446a-b9e2-f522c687b484)
 **************
-
-MISSING VARIABLE
-In Total charges there are 11 null values among the 7043 data.
-
-
-***********
-
-
-Missing Value Treatment
-Since the percentage of these records compared to the total dataset is very low i.e., 0.15% it is safe to ignore them or drop them from further processing
-
-
-
-
-
-
-***************
 5. STEPS INVOLVED IN THE PROCESS
 •	Initial setup
 •	Data Inspection
