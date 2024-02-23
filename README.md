@@ -57,6 +57,7 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 ******************
 ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/ba1d9917-4545-4b48-a394-01fbc67d127d)
 
+CATEGORICAL ANALYSIS![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/2e6dc5b0-6d65-46a3-a906-b3f69606985e)
 
 
 FINAL THOUGHTS 
