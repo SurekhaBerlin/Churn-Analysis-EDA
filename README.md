@@ -21,10 +21,9 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	Recommend product strategies to business team based on  analysis of product offerings that will help in retaining the customer based on available data.
 ***************
 RESOURCES & TOOLS REQUIRED
- ***A dataset, the dataset I am using is for the purpose of doing this project. The name of the dataset is (Customer-Churn.csv)***
- ****Google Colab/Jupyter Notebook****
- ****Import Libraries :Pandas, NumPy, Matplolib, Seaborn, and other machine learning libraries are available.****
-
+ 1. A dataset, the dataset I am using is for the purpose of doing this project. The name of the dataset is (Customer-Churn.csv)
+ 2. Google Colab/Jupyter Notebook
+ 3. Import Libraries :Pandas, NumPy, Matplolib, Seaborn, and other machine learning libraries are available
 
 
 ***************
