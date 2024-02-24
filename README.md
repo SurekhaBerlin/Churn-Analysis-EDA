@@ -56,7 +56,8 @@ RESOURCES & TOOLS REQUIRED
 5. STEPS INVOLVED IN THE PROCESS
 
 ******************
-![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/7dc96b77-8178-417e-8a37-5ebe3f1310d7)
+![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/a41dede0-083b-47db-be98-d872ed0edcd1)
+
 
 
 ******************
