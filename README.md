@@ -24,17 +24,17 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 ***************
 RESOURCES & TOOLS REQUIRED
 
- 1. A dataset, the dataset I am using is for the purpose of doing this project. The name of the dataset is (Customer-Churn.csv)
+1. A dataset, the dataset I am using is for the purpose of doing this project. The name of the dataset is (Customer-Churn.csv)
 
- 2. Google Colab/Jupyter Notebook
+2. Google Colab/Jupyter Notebook
 
- 3. Import Libraries :Pandas, NumPy, Matplolib, Seaborn, and other machine learning libraries are available
+3. Import Libraries :Pandas, NumPy, Matplolib, Seaborn, and other machine learning libraries are available
 
 
 ***************
 3. UNDERSTANDING THE DATA
 
-![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/46d93b3a-bc10-4963-bb02-7388ed97baf4)
+   ![image](https://github.com/SurekhaBerlin/Churn-Analysis-EDA/assets/35975433/46d93b3a-bc10-4963-bb02-7388ed97baf4)
 
 
 
