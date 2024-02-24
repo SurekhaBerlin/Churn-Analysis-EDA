@@ -19,6 +19,13 @@ The dataset I am using is for a project purpose. The name of the dataset is (Cus
 •	To Compare the demographic makeup of churned and non-churned consumers. Visualizations, such as stacked bar charts, are used to display the findings.
 •	To prevent customers from churning, we can use data analysis to identify potential features and design strategies to prevent customers from leaving.
 •	Recommend product strategies to business team based on  analysis of product offerings that will help in retaining the customer based on available data.
+***************
+RESOURCES & TOOLS REQUIRED
+ ***A dataset, the dataset I am using is for the purpose of doing this project. The name of the dataset is (Customer-Churn.csv)***
+ ****Google Colab/Jupyter Notebook****
+ ****Import Libraries :Pandas, NumPy, Matplolib, Seaborn, and other machine learning libraries are available.****
+
+
 
 ***************
 3. UNDERSTANDING THE DATA
